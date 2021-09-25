@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BoardManager.cs" />
     <Compile Include="Assets\Scripts\GameFlowManager.cs" />
+    <Compile Include="Assets\Scripts\PagesManager.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\TileController.cs" />
